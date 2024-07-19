@@ -1,0 +1,1 @@
+"File chính của ứng dụng, nơi khởi tạo và cấu hình các thành phần chính."

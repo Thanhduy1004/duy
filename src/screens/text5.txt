@@ -1,0 +1,1 @@
+Chứa các màn hình (screens) của ứng dụng.

@@ -1,0 +1,1 @@
+"Entry point của ứng dụng, nơi đăng ký App component với AppRegistry."

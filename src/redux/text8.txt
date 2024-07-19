@@ -1,0 +1,1 @@
+Chứa các file liên quan đến Redux, như actions, reducers, store, v.v.
